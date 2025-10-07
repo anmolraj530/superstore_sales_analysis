@@ -1,0 +1,23 @@
+Superstore Sales Analysis Results
+================================
+
+1. Regional Performance:
+    Region        Sales       Profit
+0  Central  501239.8908   39706.3625
+1     East  678781.2400   91522.7800
+2    South  391721.9050   46749.4303
+3     West  725457.8245  108418.4489
+
+2. Category Performance:
+          Category        Sales       Profit
+0        Furniture  741999.7953   18451.2728
+1  Office Supplies  719047.0320  122490.8008
+2       Technology  836154.0330  145454.9481
+
+3. Customer Segment Analysis:
+       Segment         Sales       Profit  Order ID
+0     Consumer  1.161401e+06  134119.2092      5191
+1    Corporate  7.061464e+05   91979.1340      3020
+2  Home Office  4.296531e+05   60298.6785      1783
+
+4. Discount-Profit Correlation: -0.22
